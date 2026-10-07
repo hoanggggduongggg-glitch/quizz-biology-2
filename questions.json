@@ -1,0 +1,2426 @@
+{
+ "chapters": [
+  {
+   "id": 1,
+   "name": "Cấu trúc tế bào & Bào quan"
+  },
+  {
+   "id": 2,
+   "name": "Dòng năng lượng & Chuyển hóa vật chất"
+  },
+  {
+   "id": 3,
+   "name": "Quang hợp ở vi sinh vật"
+  },
+  {
+   "id": 4,
+   "name": "Sinh trưởng & Sản phẩm chuyển hóa"
+  },
+  {
+   "id": 5,
+   "name": "Phân loại học vi sinh vật & Cổ khuẩn"
+  }
+ ],
+ "questions": [
+  {
+   "id": 1,
+   "chapter": 1,
+   "question": "Mô hình cấu trúc màng sinh chất được công nhận hiện nay là:",
+   "options": [
+    "Mô hình bánh sandwich",
+    "Mô hình khảm lỏng",
+    "Mô hình đơn lớp phospholipid",
+    "Mô hình ba lớp protein"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 2,
+   "chapter": 1,
+   "question": "Thành phần quyết định tính lỏng của màng sinh chất là:",
+   "options": [
+    "Protein ngoại vi",
+    "Glycoprotein",
+    "Lớp kép phospholipid",
+    "Khung xương tế bào"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 3,
+   "chapter": 1,
+   "question": "Cholesterol là thành phần của màng sinh chất ở loại tế bào nào?",
+   "options": [
+    "Cổ khuẩn",
+    "Vi khuẩn lam",
+    "Vi khuẩn",
+    "Tế bào động vật"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 4,
+   "chapter": 1,
+   "question": "Ở nhiệt độ cao, cholesterol giúp:",
+   "options": [
+    "Hạn chế phospholipid chuyển động quá mức, giữ màng không quá lỏng",
+    "Phân hủy phospholipid",
+    "Làm màng lỏng hơn nữa",
+    "Tăng tốc vận chuyển chủ động"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 5,
+   "chapter": 1,
+   "question": "Ở nhiệt độ thấp, cholesterol giúp:",
+   "options": [
+    "Tăng liên kết hydro giữa các protein",
+    "Làm màng đông cứng hoàn toàn",
+    "Tạo thêm lỗ màng",
+    "Ngăn phospholipid xếp quá sít, giữ màng không bị đông cứng"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 6,
+   "chapter": 1,
+   "question": "Chức năng chính của carbohydrate (glycoprotein, glycolipid) trên bề mặt màng là:",
+   "options": [
+    "Xúc tác thủy phân",
+    "Dự trữ năng lượng",
+    "Nhận diện tế bào",
+    "Tổng hợp ATP"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 7,
+   "chapter": 1,
+   "question": "Vai trò của cholesterol đối với màng tế bào động vật là:",
+   "options": [
+    "Điều hòa độ lỏng theo nhiệt độ",
+    "Tổng hợp protein",
+    "Nhận diện tế bào lạ",
+    "Thụ thể tín hiệu"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 8,
+   "chapter": 1,
+   "question": "Protein xuyên màng có thể đóng vai trò:",
+   "options": [
+    "Nguồn dự trữ năng lượng",
+    "Kênh hoặc chất vận chuyển",
+    "Chất nền của enzyme tiêu hóa",
+    "Tổng hợp DNA"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 9,
+   "chapter": 1,
+   "question": "Màng sinh chất có tính thấm:",
+   "options": [
+    "Không thấm chất nào",
+    "Thấm tự do mọi chất",
+    "Bán thấm (thấm chọn lọc)",
+    "Chỉ thấm nước"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 10,
+   "chapter": 1,
+   "question": "Chất nào khuếch tán trực tiếp qua lớp kép phospholipid dễ nhất?",
+   "options": [
+    "O₂",
+    "Glucose",
+    "Protein",
+    "Ion Na⁺"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 11,
+   "chapter": 1,
+   "question": "Tế bào nhân sơ KHÔNG có cấu trúc nào sau đây?",
+   "options": [
+    "DNA vòng",
+    "Ribosome",
+    "Màng sinh chất",
+    "Màng nhân"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 12,
+   "chapter": 1,
+   "question": "Vùng chứa DNA của tế bào nhân sơ gọi là:",
+   "options": [
+    "Bộ máy Golgi",
+    "Vùng nhân (nucleoid)",
+    "Trung thể",
+    "Nhân con"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 13,
+   "chapter": 1,
+   "question": "Plasmid là:",
+   "options": [
+    "DNA vòng nhỏ ngoài nhiễm sắc thể, thường mang gen kháng kháng sinh",
+    "Lớp màng ngoài tế bào",
+    "Cấu trúc giúp di chuyển",
+    "Một loại ribosome"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 14,
+   "chapter": 1,
+   "question": "Ribosome của vi khuẩn có hệ số lắng:",
+   "options": [
+    "80S",
+    "60S",
+    "70S",
+    "90S"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 15,
+   "chapter": 1,
+   "question": "Cấu trúc giúp vi khuẩn di chuyển là:",
+   "options": [
+    "Vỏ nhầy",
+    "Roi (flagella)",
+    "Plasmid",
+    "Lông (pili)"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 16,
+   "chapter": 1,
+   "question": "Lông (pili/fimbriae) của vi khuẩn giúp:",
+   "options": [
+    "Tổng hợp protein",
+    "Quang hợp",
+    "Bơi trong môi trường lỏng",
+    "Bám vào bề mặt vật chủ hoặc giá thể"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 17,
+   "chapter": 1,
+   "question": "Vỏ nhầy (capsule) có vai trò:",
+   "options": [
+    "Tạo ATP",
+    "Tổng hợp ribosome",
+    "Bảo vệ tế bào, chống thực bào",
+    "Chứa DNA"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 18,
+   "chapter": 1,
+   "question": "Thành tế bào vi khuẩn chủ yếu cấu tạo từ:",
+   "options": [
+    "Chitin",
+    "Peptidoglycan",
+    "Keratin",
+    "Cellulose"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 19,
+   "chapter": 1,
+   "question": "So với tế bào nhân thực, kích thước tế bào nhân sơ:",
+   "options": [
+    "Lớn hơn nhiều",
+    "Bằng nhau",
+    "Không thể so sánh",
+    "Nhỏ hơn nhiều"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 20,
+   "chapter": 1,
+   "question": "Tế bào nhân sơ có tỉ lệ S/V lớn nên:",
+   "options": [
+    "Trao đổi chất với môi trường nhanh",
+    "Chứa nhiều bào quan có màng",
+    "Có nhân lớn",
+    "Không cần màng sinh chất"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 21,
+   "chapter": 1,
+   "question": "Đặc điểm KHÔNG đúng với tế bào nhân thực là:",
+   "options": [
+    "Có hệ thống màng nội bào",
+    "DNA trần nằm tự do trong tế bào chất",
+    "Có nhân hoàn chỉnh",
+    "Có bào quan có màng bao bọc"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 22,
+   "chapter": 1,
+   "question": "Nhân con (hạch nhân) là nơi:",
+   "options": [
+    "Tổng hợp ATP",
+    "Tổng hợp lipid",
+    "Phân giải protein",
+    "Tạo ribosome"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 23,
+   "chapter": 1,
+   "question": "Lưới nội chất hạt có đặc điểm:",
+   "options": [
+    "Có ribosome bám, tổng hợp protein tiết và protein màng",
+    "Không có ribosome, tổng hợp lipid",
+    "Chứa DNA",
+    "Phân giải lipid"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 24,
+   "chapter": 1,
+   "question": "Hoạt động nào KHÔNG phải của lưới nội chất trơn?",
+   "options": [
+    "Khử độc",
+    "Dự trữ Ca²⁺",
+    "Tổng hợp protein tiết nhờ ribosome bám",
+    "Tổng hợp lipid"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 25,
+   "chapter": 1,
+   "question": "Bộ máy Golgi có chức năng:",
+   "options": [
+    "Sửa đổi, đóng gói và phân loại sản phẩm",
+    "Hô hấp tế bào",
+    "Quang hợp",
+    "Tạo thoi phân bào"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 26,
+   "chapter": 1,
+   "question": "Lysosome chứa:",
+   "options": [
+    "Chlorophyll",
+    "Enzyme thủy phân hoạt động ở pH axit",
+    "DNA vòng",
+    "Enzyme oxy hóa hoạt động ở pH kiềm"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 27,
+   "chapter": 1,
+   "question": "pH tối ưu bên trong lysosome xấp xỉ:",
+   "options": [
+    "7,4",
+    "11",
+    "4,5–5",
+    "9"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 28,
+   "chapter": 1,
+   "question": "Bào quan diễn ra chuỗi truyền electron hô hấp ở tế bào nhân thực là:",
+   "options": [
+    "Golgi",
+    "Peroxisome",
+    "Lysosome",
+    "Ti thể"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 29,
+   "chapter": 1,
+   "question": "Lục lạp chứa chlorophyll ở:",
+   "options": [
+    "Màng nhân",
+    "Màng thylakoid",
+    "Màng ngoài lục lạp",
+    "Chất nền ti thể"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 30,
+   "chapter": 1,
+   "question": "Thuyết nội cộng sinh giải thích nguồn gốc của:",
+   "options": [
+    "Ribosome và khung xương",
+    "Nhân và Golgi",
+    "Ti thể và lục lạp",
+    "Lysosome và lưới nội chất"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 31,
+   "chapter": 1,
+   "question": "Peroxisome chứa catalase giúp phân giải:",
+   "options": [
+    "Glucose",
+    "DNA",
+    "Tinh bột",
+    "H₂O₂"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 32,
+   "chapter": 1,
+   "question": "Không bào trung tâm ở tế bào thực vật có vai trò:",
+   "options": [
+    "Duy trì áp suất trương và dự trữ chất",
+    "Tạo thoi phân bào",
+    "Tổng hợp ATP",
+    "Chứa DNA"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 33,
+   "chapter": 1,
+   "question": "Ribosome ở tế bào nhân thực có hệ số lắng:",
+   "options": [
+    "80S",
+    "30S",
+    "50S",
+    "70S"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 34,
+   "chapter": 1,
+   "question": "Ribosome được cấu tạo từ:",
+   "options": [
+    "DNA và lipid",
+    "rRNA và protein",
+    "Cellulose và protein",
+    "Phospholipid và cholesterol"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 35,
+   "chapter": 1,
+   "question": "Màng nhân có đặc điểm:",
+   "options": [
+    "Màng ba lớp",
+    "Màng đơn, không có lỗ",
+    "Không có màng",
+    "Màng kép, có lỗ nhân"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 36,
+   "chapter": 1,
+   "question": "Trung thể (centrosome) ở tế bào động vật liên quan đến:",
+   "options": [
+    "Tổng hợp lipid",
+    "Hô hấp",
+    "Tổ chức vi ống, tạo thoi phân bào",
+    "Quang hợp"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 37,
+   "chapter": 1,
+   "question": "Bào quan KHÔNG có ở tế bào động vật điển hình là:",
+   "options": [
+    "Lysosome",
+    "Lục lạp",
+    "Ti thể",
+    "Golgi"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 38,
+   "chapter": 1,
+   "question": "Thành tế bào thực vật chủ yếu cấu tạo từ:",
+   "options": [
+    "Cellulose",
+    "Keratin",
+    "Peptidoglycan",
+    "Chitin"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 39,
+   "chapter": 1,
+   "question": "Thành tế bào nấm chủ yếu cấu tạo từ:",
+   "options": [
+    "Cellulose",
+    "Collagen",
+    "Chitin",
+    "Peptidoglycan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 40,
+   "chapter": 1,
+   "question": "Con đường vận chuyển protein tiết đúng là:",
+   "options": [
+    "Golgi → lưới nội chất hạt → xuất bào",
+    "Lysosome → Golgi → xuất bào",
+    "Ti thể → lưới nội chất → xuất bào",
+    "Lưới nội chất hạt → Golgi → túi tiết → xuất bào"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 41,
+   "chapter": 1,
+   "question": "Khung xương tế bào gồm mấy loại sợi chính?",
+   "options": [
+    "5",
+    "3",
+    "2",
+    "4"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 42,
+   "chapter": 1,
+   "question": "Sợi có đường kính lớn nhất trong khung xương, cấu tạo từ tubulin là:",
+   "options": [
+    "Sợi collagen",
+    "Sợi trung gian",
+    "Vi sợi",
+    "Vi ống"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 43,
+   "chapter": 1,
+   "question": "Vi sợi (microfilament) cấu tạo từ protein:",
+   "options": [
+    "Actin",
+    "Keratin",
+    "Cellulose",
+    "Tubulin"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 44,
+   "chapter": 1,
+   "question": "Loại sợi có kích thước nhỏ nhất trong khung xương là:",
+   "options": [
+    "Vi ống",
+    "Sợi trung gian",
+    "Vi sợi",
+    "Cả ba bằng nhau"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 45,
+   "chapter": 1,
+   "question": "Sợi bền nhất, chuyên neo giữ nhân và bào quan là:",
+   "options": [
+    "Không loại nào",
+    "Vi sợi",
+    "Vi ống",
+    "Sợi trung gian"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 46,
+   "chapter": 1,
+   "question": "Protein điển hình cấu tạo sợi trung gian là:",
+   "options": [
+    "Actin",
+    "Keratin",
+    "Tubulin",
+    "Myosin"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 47,
+   "chapter": 1,
+   "question": "Vi ống đóng vai trò:",
+   "options": [
+    "Tạo thoi phân bào, làm đường ray vận chuyển",
+    "Co cơ",
+    "Tạo ATP",
+    "Neo giữ nhân"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 48,
+   "chapter": 1,
+   "question": "Vi sợi actin tham gia chủ yếu vào:",
+   "options": [
+    "Quang hợp",
+    "Tổng hợp lipid",
+    "Co cơ và chuyển động tế bào",
+    "Tạo ribosome"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 49,
+   "chapter": 1,
+   "question": "Roi và lông chuyển của sinh vật nhân thực có lõi cấu tạo từ:",
+   "options": [
+    "Vi sợi",
+    "Sợi trung gian",
+    "Peptidoglycan",
+    "Vi ống (kiểu 9+2)"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 50,
+   "chapter": 1,
+   "question": "Phát biểu ĐÚNG về khung xương tế bào là:",
+   "options": [
+    "Sợi trung gian nhỏ nhất",
+    "Vi ống có đường kính lớn nhất",
+    "Vi sợi làm từ tubulin",
+    "Sợi trung gian làm từ actin"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 51,
+   "chapter": 2,
+   "question": "Chất nhận electron cuối cùng trong hô hấp hiếu khí là:",
+   "options": [
+    "Pyruvate",
+    "NO₃⁻",
+    "O₂",
+    "SO₄²⁻"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 52,
+   "chapter": 2,
+   "question": "Ở vi khuẩn hiếu khí, chuỗi truyền electron nằm ở:",
+   "options": [
+    "Màng sinh chất",
+    "Màng nhân",
+    "Ti thể",
+    "Lục lạp"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 53,
+   "chapter": 2,
+   "question": "Ở vi khuẩn, chu trình Krebs diễn ra ở:",
+   "options": [
+    "Màng sinh chất",
+    "Tế bào chất",
+    "Vùng nhân",
+    "Chất nền ti thể"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 54,
+   "chapter": 2,
+   "question": "Đường phân diễn ra ở:",
+   "options": [
+    "Tế bào chất",
+    "Màng sinh chất",
+    "Ti thể",
+    "Lysosome"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 55,
+   "chapter": 2,
+   "question": "Đường phân tạo ra (tính trên 1 glucose):",
+   "options": [
+    "4 ATP thuần",
+    "Không tạo ATP",
+    "36 ATP",
+    "2 ATP, 2 NADH, 2 pyruvate"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 56,
+   "chapter": 2,
+   "question": "Hiệu suất hô hấp hiếu khí trên mỗi phân tử glucose khoảng:",
+   "options": [
+    "100 ATP",
+    "10 ATP",
+    "30–32 ATP",
+    "2 ATP"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 57,
+   "chapter": 2,
+   "question": "Giai đoạn tạo nhiều ATP nhất trong hô hấp hiếu khí là:",
+   "options": [
+    "Chu trình Krebs",
+    "Lên men",
+    "Đường phân",
+    "Phosphoryl hóa oxy hóa (chuỗi truyền e + ATP synthase)"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 58,
+   "chapter": 2,
+   "question": "ATP synthase hoạt động nhờ:",
+   "options": [
+    "Cholesterol",
+    "Gradient proton",
+    "Nhiệt độ",
+    "Ánh sáng"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 59,
+   "chapter": 2,
+   "question": "Khi O₂ nhận electron và H⁺ sẽ tạo thành:",
+   "options": [
+    "H₂O",
+    "H₂S",
+    "CH₄",
+    "CO₂"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 60,
+   "chapter": 2,
+   "question": "Chu trình Krebs sinh ra:",
+   "options": [
+    "Chỉ O₂",
+    "Axit lactic",
+    "CO₂, NADH, FADH₂ và một ít ATP/GTP",
+    "Ethanol"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 61,
+   "chapter": 2,
+   "question": "Chất nhận electron cuối cùng trong hô hấp kỵ khí là:",
+   "options": [
+    "H₂O",
+    "Chất vô cơ ngoại bào khác oxy",
+    "Chất hữu cơ nội bào",
+    "O₂"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 62,
+   "chapter": 2,
+   "question": "Chất nào có thể làm chất nhận electron cuối trong hô hấp kỵ khí?",
+   "options": [
+    "Glucose",
+    "Pyruvate",
+    "Acetaldehyde",
+    "NO₃⁻"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 63,
+   "chapter": 2,
+   "question": "Vi khuẩn khử sunfat dùng SO₄²⁻ làm chất nhận electron và sinh ra:",
+   "options": [
+    "H₂S",
+    "Axit lactic",
+    "O₂",
+    "Ethanol"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 64,
+   "chapter": 2,
+   "question": "Điểm khác biệt chính giữa hô hấp kỵ khí và lên men là:",
+   "options": [
+    "Hô hấp kỵ khí cần O₂",
+    "Lên men không có đường phân",
+    "Hô hấp kỵ khí có chuỗi truyền electron",
+    "Lên men có chuỗi truyền electron"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 65,
+   "chapter": 2,
+   "question": "Quá trình khử nitrat (denitrification) tạo ra chủ yếu khí:",
+   "options": [
+    "H₂S",
+    "O₂",
+    "N₂",
+    "CH₄"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 66,
+   "chapter": 2,
+   "question": "So với hô hấp hiếu khí, hiệu suất ATP của hô hấp kỵ khí thường:",
+   "options": [
+    "Bằng nhau",
+    "Cao hơn",
+    "Bằng 0",
+    "Thấp hơn"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 67,
+   "chapter": 2,
+   "question": "Vi khuẩn sinh metan khử CO₂ để tạo:",
+   "options": [
+    "CH₄",
+    "O₂",
+    "H₂S",
+    "N₂"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 68,
+   "chapter": 2,
+   "question": "Phát biểu ĐÚNG về hô hấp kỵ khí là:",
+   "options": [
+    "Không có chuỗi truyền electron",
+    "Có chuỗi truyền electron với chất nhận cuối là chất vô cơ khác oxy",
+    "Chất nhận cuối là chất hữu cơ nội bào",
+    "Dùng O₂ làm chất nhận cuối"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 69,
+   "chapter": 2,
+   "question": "Fe³⁺ có thể đóng vai trò:",
+   "options": [
+    "Chất cho electron trong quang hợp",
+    "Chất nhận electron cuối trong một số hô hấp kỵ khí",
+    "Enzyme thủy phân",
+    "Chất nhận electron trong lên men"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 70,
+   "chapter": 2,
+   "question": "Hô hấp kỵ khí thường diễn ra mạnh ở:",
+   "options": [
+    "Máu động vật",
+    "Lá cây",
+    "Không khí",
+    "Đất ngập nước, trầm tích"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 71,
+   "chapter": 2,
+   "question": "Đặc điểm nào sau đây KHÔNG có ở lên men?",
+   "options": [
+    "Chuỗi truyền electron",
+    "Tạo NADH",
+    "Đường phân",
+    "Tạo pyruvate"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 72,
+   "chapter": 2,
+   "question": "Chất nhận electron cuối cùng trong lên men là:",
+   "options": [
+    "NO₃⁻",
+    "SO₄²⁻",
+    "Chất hữu cơ nội bào",
+    "O₂"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 73,
+   "chapter": 2,
+   "question": "Mục đích sinh hóa tối thượng của lên men là:",
+   "options": [
+    "Tạo O₂",
+    "Tái tạo NAD⁺ từ NADH để duy trì đường phân",
+    "Cố định CO₂",
+    "Tạo nhiều ATP"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 74,
+   "chapter": 2,
+   "question": "Hiệu suất lên men trên mỗi glucose là:",
+   "options": [
+    "36 ATP",
+    "0 ATP",
+    "30 ATP",
+    "2 ATP"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 75,
+   "chapter": 2,
+   "question": "ATP trong lên men được tạo bởi:",
+   "options": [
+    "Phosphoryl hóa mức cơ chất",
+    "Quang phosphoryl hóa",
+    "ATP synthase theo gradient proton",
+    "Phosphoryl hóa oxy hóa"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 76,
+   "chapter": 2,
+   "question": "Lên men lactic đồng hình tạo ra:",
+   "options": [
+    "Axit lactic, ethanol và CO₂",
+    "Ethanol và CO₂",
+    "Chỉ axit lactic",
+    "Axit acetic và H₂"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 77,
+   "chapter": 2,
+   "question": "Lên men lactic dị hình tạo ra:",
+   "options": [
+    "Axit lactic, cồn và CO₂",
+    "Chỉ H₂",
+    "Chỉ ethanol",
+    "Chỉ axit lactic"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 78,
+   "chapter": 2,
+   "question": "Vi khuẩn dùng làm sữa chua (lên men lactic đồng hình) là:",
+   "options": [
+    "Clostridium botulinum",
+    "Lactobacillus bulgaricus",
+    "Saccharomyces cerevisiae",
+    "Pseudomonas"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 79,
+   "chapter": 2,
+   "question": "Leuconostoc thực hiện kiểu lên men:",
+   "options": [
+    "Lactic đồng hình",
+    "Hô hấp hiếu khí",
+    "Hô hấp nitrat",
+    "Lactic dị hình"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 80,
+   "chapter": 2,
+   "question": "Trong lên men rượu của nấm men, pyruvate được chuyển thành:",
+   "options": [
+    "Lactate",
+    "Acetate và H₂O",
+    "Acetaldehyde rồi ethanol và CO₂",
+    "Methane"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 81,
+   "chapter": 2,
+   "question": "Trong lên men rượu, chất nhận electron cuối là:",
+   "options": [
+    "O₂",
+    "Sunfat",
+    "Nitrat",
+    "Acetaldehyde"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 82,
+   "chapter": 2,
+   "question": "Trong lên men lactic, chất nhận electron cuối là:",
+   "options": [
+    "CO₂",
+    "Acetaldehyde",
+    "Pyruvate",
+    "O₂"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 83,
+   "chapter": 2,
+   "question": "Ứng dụng của lên men lactic là:",
+   "options": [
+    "Làm sữa chua, muối dưa",
+    "Sản xuất penicillin",
+    "Quang hợp",
+    "Cố định nitơ"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 84,
+   "chapter": 2,
+   "question": "Bột nở bánh mì phồng lên do CO₂ từ:",
+   "options": [
+    "Hô hấp nitrat",
+    "Lên men rượu của nấm men",
+    "Lên men lactic đồng hình",
+    "Quang hợp"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 85,
+   "chapter": 2,
+   "question": "Lên men diễn ra trong điều kiện:",
+   "options": [
+    "Áp suất cao",
+    "Có ánh sáng",
+    "Kỵ khí hoàn toàn",
+    "Hiếu khí bắt buộc"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 86,
+   "chapter": 2,
+   "question": "NADH trong lên men được tạo ra chủ yếu ở giai đoạn:",
+   "options": [
+    "Đường phân",
+    "Chu trình Calvin",
+    "Chuỗi truyền electron",
+    "Pha sáng"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 87,
+   "chapter": 2,
+   "question": "Phosphoryl hóa mức cơ chất là quá trình:",
+   "options": [
+    "Dùng ánh sáng tạo ATP",
+    "Dùng ATP synthase và gradient proton",
+    "Cần O₂ làm chất nhận",
+    "Chuyển nhóm phosphate từ chất trung gian giàu năng lượng sang ADP"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 88,
+   "chapter": 2,
+   "question": "Quá trình tạo nhiều ATP nhất trên mỗi glucose là:",
+   "options": [
+    "Đường phân đơn thuần",
+    "Hô hấp hiếu khí",
+    "Hô hấp kỵ khí",
+    "Lên men"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 89,
+   "chapter": 2,
+   "question": "Sắp xếp theo hiệu suất ATP giảm dần:",
+   "options": [
+    "Lên men > hiếu khí > kỵ khí",
+    "Cả ba bằng nhau",
+    "Hiếu khí > kỵ khí > lên men",
+    "Kỵ khí > hiếu khí > lên men"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 90,
+   "chapter": 2,
+   "question": "Phân biệt hô hấp kỵ khí và lên men dựa chủ yếu vào:",
+   "options": [
+    "Nhiệt độ",
+    "Có hay không có chuỗi truyền electron và chất nhận vô cơ",
+    "pH",
+    "Có hay không có O₂"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 91,
+   "chapter": 2,
+   "question": "Chất nhận electron cuối là chất hữu cơ nội bào là đặc trưng của:",
+   "options": [
+    "Hô hấp kỵ khí",
+    "Hô hấp hiếu khí",
+    "Quang hợp",
+    "Lên men"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 92,
+   "chapter": 2,
+   "question": "Chuỗi truyền electron tạo gradient proton qua:",
+   "options": [
+    "Màng",
+    "Vỏ nhầy",
+    "Nhân",
+    "Ribosome"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 93,
+   "chapter": 2,
+   "question": "Lên men lactic dị hình khác đồng hình ở chỗ tạo thêm:",
+   "options": [
+    "N₂",
+    "Ethanol và CO₂",
+    "H₂S",
+    "O₂"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 94,
+   "chapter": 2,
+   "question": "Ethanol trong lên men rượu hình thành khi:",
+   "options": [
+    "Acetaldehyde bị khử bởi NADH",
+    "CO₂ bị khử",
+    "Glucose bị oxy hóa bởi O₂",
+    "Pyruvate bị oxy hóa"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 95,
+   "chapter": 2,
+   "question": "Đường phân cần NAD⁺ để:",
+   "options": [
+    "Phân giải DNA",
+    "Tạo thành tế bào",
+    "Nhận electron khi oxy hóa glyceraldehyde-3-phosphate",
+    "Tạo O₂"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 96,
+   "chapter": 2,
+   "question": "Dưa muối chua do vi khuẩn lactic sinh axit lactic làm:",
+   "options": [
+    "Tạo kháng sinh",
+    "Tăng pH",
+    "Tăng lượng O₂",
+    "Hạ pH, ức chế vi sinh vật gây thối"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 97,
+   "chapter": 2,
+   "question": "Phát biểu ĐÚNG về lên men là:",
+   "options": [
+    "Tạo 30 ATP",
+    "Tạo ít ATP",
+    "Không tạo ATP",
+    "Dùng O₂ làm chất nhận cuối"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 98,
+   "chapter": 2,
+   "question": "Ở vi khuẩn hiếu khí, ATP synthase nằm ở:",
+   "options": [
+    "Màng sinh chất",
+    "Lysosome",
+    "Ti thể",
+    "Nhân"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 99,
+   "chapter": 2,
+   "question": "Khi lên men lactic, pyruvate bị khử thành:",
+   "options": [
+    "Ethanol",
+    "Acetyl-CoA",
+    "CO₂",
+    "Lactate"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 100,
+   "chapter": 2,
+   "question": "Vi khuẩn Pseudomonas denitrificans dùng NO₃⁻ làm chất nhận electron cuối, đây là kiểu:",
+   "options": [
+    "Lên men lactic",
+    "Quang hợp",
+    "Hô hấp kỵ khí",
+    "Hô hấp hiếu khí"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 101,
+   "chapter": 3,
+   "question": "Pha sáng của quang hợp diễn ra ở:",
+   "options": [
+    "Nhân",
+    "Màng thylakoid",
+    "Chất nền stroma",
+    "Tế bào chất"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 102,
+   "chapter": 3,
+   "question": "Pha tối (chu trình Calvin) diễn ra ở:",
+   "options": [
+    "Chất nền stroma",
+    "Màng thylakoid",
+    "Màng ngoài lục lạp",
+    "Lysosome"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 103,
+   "chapter": 3,
+   "question": "Pha sáng tạo ra:",
+   "options": [
+    "DNA",
+    "CO₂",
+    "Glucose",
+    "ATP và NADPH"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 104,
+   "chapter": 3,
+   "question": "Chu trình Calvin có chức năng:",
+   "options": [
+    "Thải O₂",
+    "Cố định N₂",
+    "Cố định CO₂ để tạo đường",
+    "Oxy hóa H₂S"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 105,
+   "chapter": 3,
+   "question": "Enzyme cố định CO₂ trong chu trình Calvin là:",
+   "options": [
+    "ATP synthase",
+    "RuBisCO",
+    "Lysozyme",
+    "Catalase"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 106,
+   "chapter": 3,
+   "question": "Quang hợp không thải oxy đặc trưng ở:",
+   "options": [
+    "Vi khuẩn tía và vi khuẩn lục",
+    "Thực vật",
+    "Tảo lục",
+    "Vi khuẩn lam"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 107,
+   "chapter": 3,
+   "question": "Quang hợp không thải O₂ vì vi khuẩn dùng chất cho electron là:",
+   "options": [
+    "O₂",
+    "H₂O",
+    "H₂S hoặc H₂ thay vì H₂O",
+    "CO₂"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 108,
+   "chapter": 3,
+   "question": "Sắc tố quang hợp của vi khuẩn tía và lục là:",
+   "options": [
+    "Hemoglobin",
+    "Chlorophyll a",
+    "Cytochrome c",
+    "Bacteriochlorophyll"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 109,
+   "chapter": 3,
+   "question": "Bacteriochlorophyll hấp thụ được vùng ánh sáng:",
+   "options": [
+    "Tia tử ngoại",
+    "Chỉ ánh sáng xanh lục",
+    "Không hấp thụ ánh sáng",
+    "Hồng ngoại"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 110,
+   "chapter": 3,
+   "question": "Vi khuẩn lục lưu huỳnh oxy hóa H₂S thành:",
+   "options": [
+    "NO₃⁻",
+    "Lưu huỳnh (S)",
+    "O₂",
+    "CO₂"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 111,
+   "chapter": 3,
+   "question": "Điểm khác của vi khuẩn lam so với vi khuẩn tía là:",
+   "options": [
+    "Không cố định CO₂",
+    "Là sinh vật nhân thực",
+    "Quang hợp thải O₂, dùng H₂O làm chất cho electron",
+    "Không có sắc tố"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 112,
+   "chapter": 3,
+   "question": "Chất cho electron trong quang hợp có thải O₂ là:",
+   "options": [
+    "H₂O",
+    "H₂S",
+    "Fe²⁺",
+    "H₂"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 113,
+   "chapter": 3,
+   "question": "Ở vi khuẩn quang hợp, sắc tố nằm trong:",
+   "options": [
+    "Plasmid",
+    "Roi",
+    "Hệ thống màng quang hợp (kiểu thylakoid)",
+    "Vỏ nhầy"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 114,
+   "chapter": 3,
+   "question": "Lục lạp là bào quan quang hợp của:",
+   "options": [
+    "Virus",
+    "Cổ khuẩn",
+    "Vi khuẩn",
+    "Thực vật và tảo (nhân thực)"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 115,
+   "chapter": 3,
+   "question": "Sản phẩm phụ của pha sáng ở thực vật là:",
+   "options": [
+    "CH₄",
+    "O₂",
+    "N₂",
+    "H₂S"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 116,
+   "chapter": 3,
+   "question": "Kiểu dinh dưỡng của vi khuẩn tía lưu huỳnh là:",
+   "options": [
+    "Quang tự dưỡng",
+    "Hóa dị dưỡng",
+    "Ký sinh",
+    "Hóa tự dưỡng"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 117,
+   "chapter": 3,
+   "question": "Màng thylakoid nằm trong:",
+   "options": [
+    "Nhân",
+    "Lục lạp",
+    "Bộ máy Golgi",
+    "Ti thể"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 118,
+   "chapter": 3,
+   "question": "NADPH được dùng trong:",
+   "options": [
+    "Lên men lactic",
+    "Hô hấp hiếu khí",
+    "Pha tối để khử CO₂",
+    "Tiêu hóa nội bào"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 119,
+   "chapter": 3,
+   "question": "Điểm chung của quang hợp thải và không thải O₂ là:",
+   "options": [
+    "Đều dùng năng lượng ánh sáng để tạo ATP",
+    "Đều có chlorophyll a",
+    "Đều dùng H₂O",
+    "Đều thải O₂"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 120,
+   "chapter": 3,
+   "question": "Vi khuẩn lục lưu huỳnh thuộc nhóm:",
+   "options": [
+    "Dị dưỡng hoàn toàn",
+    "Quang hợp thải O₂",
+    "Hóa tự dưỡng",
+    "Quang hợp không thải O₂"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 121,
+   "chapter": 4,
+   "question": "Thứ tự các pha sinh trưởng của quần thể vi khuẩn là:",
+   "options": [
+    "Tiềm phát, cân bằng, lũy thừa, suy vong",
+    "Tiềm phát, lũy thừa, cân bằng, suy vong",
+    "Cân bằng, tiềm phát, lũy thừa, suy vong",
+    "Lũy thừa, tiềm phát, cân bằng, suy vong"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 122,
+   "chapter": 4,
+   "question": "Đặc điểm của pha tiềm phát (lag) là:",
+   "options": [
+    "Số lượng tăng nhanh",
+    "Chết hàng loạt",
+    "Số sinh bằng số chết",
+    "Tế bào thích nghi, tổng hợp enzyme, số lượng chưa tăng đáng kể"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 123,
+   "chapter": 4,
+   "question": "Ở pha lũy thừa (log), vi khuẩn:",
+   "options": [
+    "Chết hàng loạt",
+    "Thích nghi môi trường",
+    "Sinh trưởng với tốc độ cực đại",
+    "Ngừng phân chia hoàn toàn"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 124,
+   "chapter": 4,
+   "question": "Đặc điểm của pha cân bằng là:",
+   "options": [
+    "Số tế bào sinh ra bằng số tế bào chết",
+    "Số tế bào giảm mạnh",
+    "Số tế bào tăng mạnh",
+    "Chưa phân chia"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 125,
+   "chapter": 4,
+   "question": "Ở pha suy vong:",
+   "options": [
+    "Số tế bào tăng theo cấp số nhân",
+    "Số tế bào chết vượt số tế bào sinh ra",
+    "Tế bào bắt đầu thích nghi",
+    "Số sinh bằng số chết"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 126,
+   "chapter": 4,
+   "question": "Chất chuyển hóa sơ cấp là chất:",
+   "options": [
+    "Chỉ là kháng sinh",
+    "Không thiết yếu cho sinh trưởng",
+    "Chỉ là độc tố",
+    "Thiết yếu cho sinh trưởng"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 127,
+   "chapter": 4,
+   "question": "Chất chuyển hóa sơ cấp được tạo mạnh nhất ở:",
+   "options": [
+    "Pha lũy thừa",
+    "Pha cân bằng",
+    "Pha tiềm phát",
+    "Pha suy vong"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 128,
+   "chapter": 4,
+   "question": "Chất chuyển hóa thứ cấp là chất:",
+   "options": [
+    "Thiết yếu cho sinh trưởng",
+    "Là axit amin",
+    "Không thiết yếu nhưng giúp cạnh tranh sinh tồn",
+    "Là DNA"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 129,
+   "chapter": 4,
+   "question": "Chất chuyển hóa thứ cấp được sản sinh đỉnh điểm ở:",
+   "options": [
+    "Pha tiềm phát",
+    "Pha cân bằng",
+    "Pha lũy thừa",
+    "Pha suy vong"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 130,
+   "chapter": 4,
+   "question": "Penicillin là:",
+   "options": [
+    "Vitamin",
+    "Chất chuyển hóa sơ cấp",
+    "Enzyme thiết yếu",
+    "Chất chuyển hóa thứ cấp"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 131,
+   "chapter": 4,
+   "question": "Penicillin được sản xuất bởi nấm:",
+   "options": [
+    "Escherichia coli",
+    "Saccharomyces",
+    "Penicillium",
+    "Lactobacillus"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 132,
+   "chapter": 4,
+   "question": "Axit amin là ví dụ của chất chuyển hóa:",
+   "options": [
+    "Sơ cấp",
+    "Thứ cấp",
+    "Sắc tố",
+    "Kháng sinh"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 133,
+   "chapter": 4,
+   "question": "Sinh khối tế bào thuộc nhóm sản phẩm:",
+   "options": [
+    "Độc tố",
+    "Kháng sinh",
+    "Thứ cấp",
+    "Sơ cấp"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 134,
+   "chapter": 4,
+   "question": "Vi khuẩn sinh sản chủ yếu bằng:",
+   "options": [
+    "Phân đôi",
+    "Nảy chồi",
+    "Bào tử hữu tính",
+    "Giảm phân"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 135,
+   "chapter": 4,
+   "question": "Từ 1 tế bào, sau n lần phân chia sẽ có:",
+   "options": [
+    "n tế bào",
+    "2ⁿ tế bào",
+    "2n tế bào",
+    "n² tế bào"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 136,
+   "chapter": 4,
+   "question": "Thời gian thế hệ là:",
+   "options": [
+    "Thời gian hình thành bào tử",
+    "Thời gian tế bào chết",
+    "Thời gian để quần thể tăng gấp đôi số lượng",
+    "Thời gian thích nghi môi trường"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 137,
+   "chapter": 4,
+   "question": "Nuôi cấy không liên tục có đặc điểm:",
+   "options": [
+    "Không bổ sung dinh dưỡng, không loại bỏ chất thải",
+    "Không có pha tiềm phát",
+    "Bổ sung dinh dưỡng liên tục",
+    "Chỉ có pha lũy thừa"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 138,
+   "chapter": 4,
+   "question": "Vi khuẩn ưa nhiệt (thermophile) sinh trưởng tốt ở khoảng:",
+   "options": [
+    "Khoảng 37°C",
+    "45–80°C",
+    "Dưới 15°C",
+    "Dưới 0°C"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 139,
+   "chapter": 4,
+   "question": "Vi khuẩn ưa ấm (mesophile) sinh trưởng tối ưu ở khoảng:",
+   "options": [
+    "–10°C",
+    "Trên 100°C",
+    "20–45°C",
+    "80–100°C"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 140,
+   "chapter": 4,
+   "question": "Vi khuẩn hiếu khí bắt buộc:",
+   "options": [
+    "Không cần O₂",
+    "Bị O₂ gây độc",
+    "Dùng nitrat làm chất nhận electron",
+    "Cần O₂ để sinh trưởng"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 141,
+   "chapter": 4,
+   "question": "Vi khuẩn kỵ khí bắt buộc:",
+   "options": [
+    "Bị O₂ gây độc",
+    "Cần O₂ để sinh trưởng",
+    "Chỉ quang hợp",
+    "Dùng O₂ làm chất nhận electron"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 142,
+   "chapter": 4,
+   "question": "Để thu chất chuyển hóa thứ cấp như kháng sinh, nên thu ở:",
+   "options": [
+    "Pha tiềm phát",
+    "Pha cân bằng",
+    "Pha lũy thừa",
+    "Pha suy vong"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 143,
+   "chapter": 4,
+   "question": "Nguyên nhân dẫn tới pha cân bằng là:",
+   "options": [
+    "Thiếu ánh sáng",
+    "Thừa dinh dưỡng",
+    "Nhiệt độ giảm",
+    "Cạn dinh dưỡng, tích lũy chất độc"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 144,
+   "chapter": 4,
+   "question": "Độ dài pha tiềm phát phụ thuộc vào:",
+   "options": [
+    "Không phụ thuộc yếu tố nào",
+    "Chỉ pH",
+    "Tuổi giống cấy và môi trường",
+    "Chỉ nhiệt độ"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 145,
+   "chapter": 4,
+   "question": "Đồ thị log số tế bào ở pha lũy thừa có dạng:",
+   "options": [
+    "Đường nằm ngang",
+    "Đường dao động",
+    "Đường đi xuống",
+    "Đường thẳng đi lên"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 146,
+   "chapter": 4,
+   "question": "Tốc độ sinh trưởng riêng cực đại xảy ra ở:",
+   "options": [
+    "Pha cân bằng",
+    "Pha lũy thừa",
+    "Pha tiềm phát",
+    "Pha suy vong"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 147,
+   "chapter": 4,
+   "question": "Ví dụ nào là chất chuyển hóa thứ cấp?",
+   "options": [
+    "DNA",
+    "ATP",
+    "Kháng sinh, độc tố, sắc tố",
+    "Axit amin, nucleotide"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 148,
+   "chapter": 4,
+   "question": "Phát biểu ĐÚNG về chuyển hóa thứ cấp là:",
+   "options": [
+    "Không cần cho sinh trưởng cơ bản",
+    "Cần thiết cho phân chia tế bào",
+    "Chỉ xảy ra ở pha tiềm phát",
+    "Chỉ xảy ra ở pha lũy thừa"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 149,
+   "chapter": 4,
+   "question": "Nồng độ muối cao ức chế vi khuẩn do:",
+   "options": [
+    "Làm tăng pH",
+    "Áp suất thẩm thấu cao làm tế bào mất nước",
+    "Làm tăng O₂",
+    "Tăng ánh sáng"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 150,
+   "chapter": 4,
+   "question": "Ở pha suy vong, số tế bào sống thường giảm theo:",
+   "options": [
+    "Dao động đều",
+    "Hàm tăng",
+    "Hàm mũ",
+    "Giữ nguyên"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 151,
+   "chapter": 5,
+   "question": "Hệ thống phân loại sinh giới do Carl Woese đề xuất chia thành:",
+   "options": [
+    "3 vực",
+    "5 giới",
+    "6 giới",
+    "2 vực"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 152,
+   "chapter": 5,
+   "question": "Hệ thống 3 vực của Carl Woese được đề xuất vào năm:",
+   "options": [
+    "1735",
+    "2010",
+    "1969",
+    "1990"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 153,
+   "chapter": 5,
+   "question": "Ba vực của Woese gồm:",
+   "options": [
+    "Archaea, Animalia, Plantae",
+    "Bacteria, Archaea, Eukarya",
+    "Prokarya, Eukarya, Virus",
+    "Bacteria, Fungi, Plantae"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 154,
+   "chapter": 5,
+   "question": "Carl Woese dựa chủ yếu vào dữ liệu nào để đề xuất hệ thống 3 vực?",
+   "options": [
+    "Trình tự rRNA",
+    "Hình thái tế bào",
+    "Màu sắc khuẩn lạc",
+    "Khả năng di chuyển"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 155,
+   "chapter": 5,
+   "question": "Gen được dùng làm chuẩn vàng phân loại phân tử vi khuẩn là:",
+   "options": [
+    "Gen kháng kháng sinh",
+    "Gen mã hóa enzyme tiêu hóa",
+    "Gen mã hóa 23S protein",
+    "Gen mã hóa 16S rRNA"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 156,
+   "chapter": 5,
+   "question": "16S rRNA được dùng để phân loại vì:",
+   "options": [
+    "Chỉ có ở vi khuẩn gây bệnh",
+    "Biến đổi hoàn toàn giữa các loài",
+    "Có tính bảo tồn cao và có ở mọi vi khuẩn",
+    "Nằm trên plasmid"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 157,
+   "chapter": 5,
+   "question": "Ngưỡng tương đồng trình tự 16S rRNA để xác định hai loài vi khuẩn khác nhau là:",
+   "options": [
+    "Dưới 50%",
+    "Trên 99,9%",
+    "Dưới 98,7%",
+    "Đúng 100%"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 158,
+   "chapter": 5,
+   "question": "16S rRNA là thành phần của:",
+   "options": [
+    "Thành tế bào",
+    "Tiểu đơn vị 30S của ribosome",
+    "Tiểu đơn vị 50S",
+    "Màng sinh chất"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 159,
+   "chapter": 5,
+   "question": "Phân loại học hiện đại là phân loại đa diện, nghĩa là kết hợp:",
+   "options": [
+    "Đặc điểm hình thái truyền thống và giải trình tự gen",
+    "Chỉ giải trình tự gen",
+    "Chỉ hình thái",
+    "Chỉ đặc điểm sinh thái"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 160,
+   "chapter": 5,
+   "question": "Phân loại truyền thống vi sinh vật dựa chủ yếu vào:",
+   "options": [
+    "Trình tự 16S rRNA",
+    "Kích thước bộ gen",
+    "Cấu trúc 3D protein",
+    "Hình thái, sinh lý và sinh hóa"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 161,
+   "chapter": 5,
+   "question": "Thứ tự các bậc phân loại từ cao xuống thấp là:",
+   "options": [
+    "Vực, ngành, lớp, bộ, họ, chi, loài",
+    "Ngành, vực, lớp, họ, bộ, chi, loài",
+    "Vực, lớp, ngành, bộ, họ, loài, chi",
+    "Loài, chi, họ, bộ, lớp, ngành, vực"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 162,
+   "chapter": 5,
+   "question": "Tên khoa học của một loài theo danh pháp hai phần gồm:",
+   "options": [
+    "Tên vực và tên ngành",
+    "Tên họ và tên bộ",
+    "Tên lớp và tên loài",
+    "Tên chi và tên loài"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 163,
+   "chapter": 5,
+   "question": "Cách viết đúng tên khoa học là:",
+   "options": [
+    "escherichia Coli",
+    "Escherichia coli (in nghiêng, chi viết hoa)",
+    "Escherichia Coli",
+    "ESCHERICHIA COLI"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 164,
+   "chapter": 5,
+   "question": "Thành tế bào cổ khuẩn:",
+   "options": [
+    "Luôn là chitin",
+    "Luôn là cellulose",
+    "Không chứa peptidoglycan",
+    "Luôn chứa peptidoglycan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 165,
+   "chapter": 5,
+   "question": "Cổ khuẩn kháng tự nhiên với penicillin vì:",
+   "options": [
+    "Có nhân hoàn chỉnh",
+    "Không có màng sinh chất",
+    "Có vỏ nhầy dày",
+    "Thành tế bào không có peptidoglycan"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 166,
+   "chapter": 5,
+   "question": "Màng sinh chất của cổ khuẩn chứa liên kết:",
+   "options": [
+    "Ether",
+    "Peptide",
+    "Glycoside",
+    "Ester"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 167,
+   "chapter": 5,
+   "question": "Màng của vi khuẩn và sinh vật nhân thực chứa liên kết:",
+   "options": [
+    "Disulfide",
+    "Ester",
+    "Hydro",
+    "Ether"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 168,
+   "chapter": 5,
+   "question": "Chuỗi hydrocarbon trong màng cổ khuẩn là:",
+   "options": [
+    "Cellulose",
+    "Cholesterol",
+    "Isoprenoid phân nhánh",
+    "Axit béo mạch thẳng"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 169,
+   "chapter": 5,
+   "question": "Màng cổ khuẩn bền nhiệt và axit nhờ:",
+   "options": [
+    "Lớp peptidoglycan dày",
+    "Liên kết ester và axit béo mạch thẳng",
+    "Lớp vỏ nhầy",
+    "Liên kết ether và chuỗi isoprenoid phân nhánh"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 170,
+   "chapter": 5,
+   "question": "Các nhóm cổ khuẩn cực đoan gồm:",
+   "options": [
+    "Ưa nhiệt, ưa mặn, sinh metan",
+    "Quang hợp thải O₂, lên men lactic",
+    "Gây bệnh, ký sinh, cộng sinh",
+    "Hiếu khí bắt buộc, nhân thực"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 171,
+   "chapter": 5,
+   "question": "Cổ khuẩn ưa mặn sống ở môi trường:",
+   "options": [
+    "Nước ngọt",
+    "Không khí",
+    "Nồng độ muối rất cao",
+    "Axit hữu cơ"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 172,
+   "chapter": 5,
+   "question": "Nhóm cổ khuẩn sinh metan (CH₄) là:",
+   "options": [
+    "Hiếu khí bắt buộc",
+    "Kỵ khí nghiêm ngặt",
+    "Hiếu khí tùy tiện",
+    "Quang tự dưỡng"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 173,
+   "chapter": 5,
+   "question": "Cổ khuẩn sinh metan sản sinh khí:",
+   "options": [
+    "N₂",
+    "H₂S",
+    "CH₄",
+    "O₂"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 174,
+   "chapter": 5,
+   "question": "Cổ khuẩn ưa nhiệt cực đoan thường được tìm thấy ở:",
+   "options": [
+    "Băng ở Bắc Cực",
+    "Ruột người khỏe mạnh",
+    "Nước ngọt thông thường",
+    "Suối nước nóng, miệng núi lửa dưới biển"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 175,
+   "chapter": 5,
+   "question": "Cổ khuẩn sinh metan thường sống ở:",
+   "options": [
+    "Đầm lầy, dạ dày động vật nhai lại",
+    "Đất khô sa mạc",
+    "Không khí",
+    "Lá cây"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 176,
+   "chapter": 5,
+   "question": "Cổ khuẩn khác vi khuẩn ở chỗ:",
+   "options": [
+    "Có ti thể",
+    "Màng chứa liên kết ether và không có peptidoglycan",
+    "Có nhân hoàn chỉnh",
+    "Có lục lạp"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 177,
+   "chapter": 5,
+   "question": "Cổ khuẩn thuộc nhóm sinh vật:",
+   "options": [
+    "Nhân thực",
+    "Không có màng sinh chất",
+    "Virus",
+    "Nhân sơ"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 178,
+   "chapter": 5,
+   "question": "Vực nào gần với Eukarya về mặt tiến hóa hơn vi khuẩn?",
+   "options": [
+    "Không vực nào",
+    "Virus",
+    "Archaea",
+    "Bacteria"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 179,
+   "chapter": 5,
+   "question": "Điểm chung giữa Bacteria và Archaea là:",
+   "options": [
+    "Đều là sinh vật nhân sơ, không có màng nhân",
+    "Đều có liên kết ether",
+    "Đều có peptidoglycan",
+    "Đều có ti thể"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 180,
+   "chapter": 5,
+   "question": "Vực Eukarya gồm:",
+   "options": [
+    "Vi khuẩn và cổ khuẩn",
+    "Động vật, thực vật, nấm và nguyên sinh vật",
+    "Chỉ thực vật",
+    "Chỉ động vật"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 181,
+   "chapter": 5,
+   "question": "Bậc phân loại cao nhất theo Woese là:",
+   "options": [
+    "Loài",
+    "Vực",
+    "Ngành",
+    "Giới"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 182,
+   "chapter": 5,
+   "question": "Bậc phân loại cơ bản (đơn vị nhỏ nhất) là:",
+   "options": [
+    "Loài",
+    "Chi",
+    "Họ",
+    "Bộ"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 183,
+   "chapter": 5,
+   "question": "Kỹ thuật thường dùng để xác định loài vi khuẩn từ gen 16S rRNA là:",
+   "options": [
+    "Nhuộm Gram",
+    "Đo pH",
+    "PCR và giải trình tự gen",
+    "Quan sát bằng kính hiển vi quang học"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 184,
+   "chapter": 5,
+   "question": "Cổ khuẩn Halobacterium thuộc nhóm:",
+   "options": [
+    "Ưa nhiệt cực đoan",
+    "Sinh metan",
+    "Quang hợp thải O₂",
+    "Ưa mặn"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 185,
+   "chapter": 5,
+   "question": "Cổ khuẩn Sulfolobus sống ở môi trường:",
+   "options": [
+    "Mặn cao",
+    "Kiềm yếu",
+    "Lạnh",
+    "Nóng và axit"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 186,
+   "chapter": 5,
+   "question": "Cổ khuẩn có đặc điểm nào giống Eukarya?",
+   "options": [
+    "Có ti thể",
+    "Có histone gắn DNA ở một số nhóm",
+    "Có lục lạp",
+    "Có nhân thực"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 187,
+   "chapter": 5,
+   "question": "Thành tế bào Gram dương có lớp peptidoglycan:",
+   "options": [
+    "Mỏng và nằm giữa hai màng",
+    "Chỉ gồm cellulose",
+    "Dày",
+    "Không có"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 188,
+   "chapter": 5,
+   "question": "Vi khuẩn Gram âm có thêm cấu trúc đặc trưng là:",
+   "options": [
+    "Màng ngoài chứa lipopolysaccharide (LPS)",
+    "Ti thể",
+    "Lục lạp",
+    "Màng nhân"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 189,
+   "chapter": 5,
+   "question": "Nhóm vi sinh vật sống ở điều kiện môi trường cực đoan gọi chung là:",
+   "options": [
+    "Saprophyte",
+    "Mesophile",
+    "Commensal",
+    "Extremophile"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 190,
+   "chapter": 5,
+   "question": "Vi sinh vật ưa axit (acidophile) sinh trưởng tối ưu ở:",
+   "options": [
+    "Không phụ thuộc pH",
+    "pH thấp",
+    "pH trung tính",
+    "pH kiềm cao"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 191,
+   "chapter": 5,
+   "question": "Cổ khuẩn sinh metan thường dùng H₂ và CO₂ để:",
+   "options": [
+    "Tạo CH₄ và thu năng lượng",
+    "Tạo O₂",
+    "Quang hợp",
+    "Tạo H₂S"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 192,
+   "chapter": 5,
+   "question": "Ribosome của cổ khuẩn có hệ số lắng:",
+   "options": [
+    "90S",
+    "80S",
+    "70S",
+    "60S"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 193,
+   "chapter": 5,
+   "question": "Cổ khuẩn có thể bền ở nhiệt độ cao là nhờ:",
+   "options": [
+    "Có nhân hoàn chỉnh",
+    "Cấu trúc màng và protein đặc biệt",
+    "Có thành cellulose",
+    "Có lục lạp"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 194,
+   "chapter": 5,
+   "question": "Tên khoa học Escherichia coli, trong đó Escherichia là:",
+   "options": [
+    "Tên loài",
+    "Tên họ",
+    "Tên ngành",
+    "Tên chi"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 195,
+   "chapter": 5,
+   "question": "Ý nghĩa của việc dùng 16S rRNA để xây dựng cây phát sinh chủng loại là:",
+   "options": [
+    "Xác định quan hệ tiến hóa giữa các nhóm sinh vật",
+    "Đếm số roi",
+    "Xác định màu sắc khuẩn lạc",
+    "Đo khả năng di chuyển"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 196,
+   "chapter": 5,
+   "question": "Phát biểu ĐÚNG về cổ khuẩn là:",
+   "options": [
+    "Thành tế bào luôn là peptidoglycan",
+    "Màng chứa cholesterol như động vật",
+    "Không chứa peptidoglycan và màng có liên kết ether",
+    "Có nhân hoàn chỉnh và ti thể"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 197,
+   "chapter": 5,
+   "question": "Hai vi khuẩn có trình tự 16S rRNA tương đồng dưới 98,7% thì:",
+   "options": [
+    "Chắc chắn cùng một loài",
+    "Chắc chắn cùng một chi",
+    "Được coi là hai loài khác nhau",
+    "Không thể kết luận gì"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 198,
+   "chapter": 5,
+   "question": "Phân loại đa diện KHÔNG bao gồm:",
+   "options": [
+    "Chỉ dựa vào màu sắc khuẩn lạc",
+    "Giải trình tự gen",
+    "Đặc điểm hình thái",
+    "Đặc điểm sinh hóa"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 199,
+   "chapter": 5,
+   "question": "Người đề xuất hệ thống 3 vực năm 1990 là:",
+   "options": [
+    "Louis Pasteur",
+    "Robert Whittaker",
+    "Carl Linnaeus",
+    "Carl Woese"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 200,
+   "chapter": 5,
+   "question": "Liên kết giữa glycerol và chuỗi hydrocarbon trong màng sinh chất là:",
+   "options": [
+    "Peptide ở cả hai",
+    "Ether ở cổ khuẩn, ester ở vi khuẩn",
+    "Ester ở cổ khuẩn, ether ở vi khuẩn",
+    "Ether ở cả hai"
+   ],
+   "answer": 1
+  }
+ ]
+}

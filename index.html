@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trắc nghiệm Vi sinh vật</title>
+<style>
+:root{--bg:#f6f8f7;--fg:#1c2421;--card:#fff;--line:#d5ddd9;--ac:#1f6f5c;--ok:#1b7f3b;--okbg:#e3f4e8;--no:#b3261e;--nobg:#fbe7e5}
+@media(prefers-color-scheme:dark){:root{--bg:#121816;--fg:#e6ece9;--card:#1b2420;--line:#33403a;--ac:#5cc4a8;--ok:#6fdc8c;--okbg:#17321f;--no:#ff8a80;--nobg:#3a1c1a}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,"Segoe UI",Roboto,sans-serif}
+main{max-width:720px;margin:0 auto;padding:20px 16px 60px}
+h1{font-size:1.4rem;margin:0 0 4px}
+.sub{color:var(--ac);margin:0 0 18px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px;margin-bottom:14px}
+label{display:block;margin:8px 0 4px;font-weight:600}
+select,button{font:inherit;padding:9px 12px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--fg)}
+select{width:100%}
+button{cursor:pointer}
+button.primary{background:var(--ac);color:#fff;border-color:var(--ac);font-weight:600}
+button:focus-visible{outline:3px solid var(--ac);outline-offset:2px}
+.row{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+.opt{display:block;width:100%;text-align:left;margin:8px 0}
+.opt.ok{background:var(--okbg);border-color:var(--ok)}
+.opt.no{background:var(--nobg);border-color:var(--no)}
+.bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden;margin-bottom:12px}
+.bar i{display:block;height:100%;background:var(--ac)}
+.meta{display:flex;justify-content:space-between;color:#6b7a73;font-size:.9rem;margin-bottom:6px}
+.q{font-weight:600;margin:6px 0 10px}
+.res{font-size:2rem;font-weight:700}
+.wrong{border-left:4px solid var(--no);padding-left:10px;margin:10px 0}
+.hide{display:none}
+</style>
+</head>
+<body>
+<main>
+<h1>Trắc nghiệm Vi sinh vật</h1>
+<p class="sub" id="count"></p>
+
+<section id="setup" class="card">
+  <label for="chapter">Chương</label>
+  <select id="chapter"></select>
+  <label for="num">Số câu</label>
+  <select id="num"><option value="10">10</option><option value="20" selected>20</option><option value="50">50</option><option value="0">Tất cả</option></select>
+  <label for="order">Thứ tự</label>
+  <select id="order"><option value="rand">Ngẫu nhiên</option><option value="seq">Theo thứ tự</option></select>
+  <div class="row"><button class="primary" id="start">Bắt đầu</button></div>
+</section>
+
+<section id="quiz" class="card hide">
+  <div class="meta"><span id="pos"></span><span id="score"></span></div>
+  <div class="bar"><i id="prog"></i></div>
+  <div class="q" id="qtext"></div>
+  <div id="opts"></div>
+  <div class="row"><button class="primary hide" id="next">Câu tiếp</button></div>
+</section>
+
+<section id="result" class="card hide">
+  <div class="res" id="final"></div>
+  <p id="pct"></p>
+  <div id="wrongs"></div>
+  <div class="row"><button class="primary" id="again">Làm lại</button></div>
+</section>
+</main>
+<script src="questions.js"></script>
+<script>
+const $=id=>document.getElementById(id);
+const L=["A","B","C","D"];
+let list=[],i=0,correct=0,wrongs=[],locked=false;
+$("count").textContent=QUESTIONS.length+" câu · "+CHAPTERS.length+" chương";
+$("chapter").innerHTML='<option value="0">Tất cả các chương</option>'+CHAPTERS.map(c=>`<option value="${c.id}">Chương ${c.id}: ${c.name}</option>`).join("");
+function shuffle(a){for(let k=a.length-1;k>0;k--){const j=Math.floor(Math.random()*(k+1));[a[k],a[j]]=[a[j],a[k]];}return a;}
+$("start").onclick=()=>{
+  const ch=+$("chapter").value,n=+$("num").value;
+  list=QUESTIONS.filter(q=>!ch||q.chapter===ch);
+  if($("order").value==="rand")shuffle(list);
+  if(n&&n<list.length)list=list.slice(0,n);
+  i=0;correct=0;wrongs=[];
+  $("setup").classList.add("hide");$("result").classList.add("hide");$("quiz").classList.remove("hide");
+  show();
+};
+function show(){
+  locked=false;const q=list[i];
+  $("pos").textContent="Câu "+(i+1)+"/"+list.length;
+  $("score").textContent="Đúng: "+correct;
+  $("prog").style.width=(i/list.length*100)+"%";
+  $("qtext").textContent=q.question;
+  $("opts").innerHTML="";
+  q.options.forEach((t,k)=>{
+    const b=document.createElement("button");b.className="opt";b.textContent=L[k]+". "+t;
+    b.onclick=()=>pick(k,b);$("opts").appendChild(b);
+  });
+  $("next").classList.add("hide");
+}
+function pick(k,btn){
+  if(locked)return;locked=true;
+  const q=list[i],bs=$("opts").children;
+  bs[q.answer].classList.add("ok");
+  if(k===q.answer)correct++;else{btn.classList.add("no");wrongs.push(q);}
+  $("score").textContent="Đúng: "+correct;
+  $("next").textContent=i+1<list.length?"Câu tiếp":"Xem kết quả";
+  $("next").classList.remove("hide");$("next").focus();
+}
+$("next").onclick=()=>{i++;i<list.length?show():finish();};
+function finish(){
+  $("quiz").classList.add("hide");$("result").classList.remove("hide");
+  $("final").textContent=correct+"/"+list.length;
+  $("pct").textContent=Math.round(correct/list.length*100)+"% đúng"+(wrongs.length?" — xem lại các câu sai:":" — chính xác tuyệt đối!");
+  $("wrongs").innerHTML=wrongs.map(q=>`<div class="wrong"><div>${q.question}</div><b>Đáp án: ${L[q.answer]}. ${q.options[q.answer]}</b></div>`).join("");
+}
+$("again").onclick=()=>{$("result").classList.add("hide");$("setup").classList.remove("hide");};
+</script>
+</body>
+</html>
